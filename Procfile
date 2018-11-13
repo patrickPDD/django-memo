@@ -1,1 +1,1 @@
-web: gunicorn my_djangoapp.wsgi
+web: gunicorn aqueous-plains-35515.wsgi

@@ -1,1 +1,1 @@
-web: gunicorn os.environ['WSGI_APPLICATION']
+web: gunicorn ['WSGI_APPLICATION']

@@ -1,1 +1,1 @@
-web: gunicorn aqueous-plains-35515.wsgi
+web: gunicorn hello.wsgi
